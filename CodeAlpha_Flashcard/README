@@ -1,0 +1,43 @@
+# 🧠 Flash Card Quiz
+
+A simple and interactive **Flash Card Quiz** web application built using **HTML, CSS, and JavaScript**.
+
+## ✨ Features
+
+* 📚 Interactive flashcards
+* 👀 Show answers
+* ⬅️ Previous and Next navigation
+* 📊 Progress bar
+* ➕ Add flashcards
+* ✏️ Edit flashcards
+* 🗑️ Delete flashcards
+* 🔄 Restart quiz
+* 🌙 Dark mode
+* ✅ Quiz completion popup
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Font Awesome
+* Google Fonts
+
+## 📖 How to Use
+
+1. Open the project in your browser.
+2. Read the question displayed on the flashcard.
+3. Click **Show Answer** to reveal the answer.
+4. Use **Previous** and **Next** to navigate.
+5. Add, edit, or delete flashcards as needed.
+6. Use the 🌙 button to switch to dark mode.
+
+## 🎯 Purpose
+
+This project was created to practice **frontend development, JavaScript, DOM manipulation, and interactive user interface design**.
+
+## 👨‍💻 Author
+
+**Rohith**
+
+⭐ If you like this project, consider giving it a star!
